@@ -1,5 +1,0 @@
-1. What is Apache Spark, and how does it differ from Hadoop MapReduce? Explain with examples.
-2. What are Resilient Distributed Datasets (RDDs) in Spark, and what are their key properties?
-3. Explain the concept of transformations and actions in Spark. Provide examples of each.
-4. What is a SparkSession, and why is it important in Spark 2.0 and later versions? How do you create one?
-5. Discuss the role of SparkContext in a Spark application. How does it interact with SparkCluster?
